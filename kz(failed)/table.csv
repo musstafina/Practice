@@ -1,0 +1,162 @@
+   , Breed                     , Disease                                             , Count
+  0, yorkshire terrier         , Уролитиаз/МКБ                                       , 18
+  1, german shepherd dog       , Уролитиаз/МКБ                                       , 3
+  2, russian toy               , Уролитиаз/МКБ                                       , 7
+  3, chihuahua                 , Уролитиаз/МКБ                                       , 3
+  4, german spitz              , Уролитиаз/МКБ                                       , 3
+  5, pomeranian                , Уролитиаз/МКБ                                       , 2
+  6, central asian shepherd dog, Уролитиаз/МКБ                                       , 1
+  7, siberian husky            , Уролитиаз/МКБ                                       , 3
+  8, pug                       , Уролитиаз/МКБ                                       , 14
+  9, french bulldog            , Уролитиаз/МКБ                                       , 0
+ 10, pekingese                 , Уролитиаз/МКБ                                       , 2
+ 11, dachshund                 , Уролитиаз/МКБ                                       , 2+1
+ 12, cocker spaniel            , Уролитиаз/МКБ                                       , 0
+ 13, american pit bull terrier , Уролитиаз/МКБ                                       , 1
+ 14, jack russell terrier      , Уролитиаз/МКБ                                       , 0
+ 15, poodle                    , Уролитиаз/МКБ                                       , 1+1
+ 16, russian spaniel           , Уролитиаз/МКБ                                       , 0
+ 17, miniature pinscher        , Уролитиаз/МКБ                                       , 1
+ 18, maltipoo                  , Уролитиаз/МКБ                                       , 0
+ 19, chinese shar-pei          , Уролитиаз/МКБ                                       , 1
+ 20, staffordshire bull terrier, Уролитиаз/МКБ                                       , 0
+ 21, rottweiler                , Уролитиаз/МКБ                                       , 0
+ 22, labrador retriever        , Уролитиаз/МКБ                                       , 2
+ 23, yorkshire terrier         , Энетропатии и гастропатии (в том числе инфекционные), 111
+ 24, german shepherd dog       , Энетропатии и гастропатии (в том числе инфекционные), 3+3+11+157+12
+ 25, russian toy               , Энетропатии и гастропатии (в том числе инфекционные), 3+24+22+1+5
+ 26, chihuahua                 , Энетропатии и гастропатии (в том числе инфекционные), 10+5+1+20
+ 27, german spitz              , Энетропатии и гастропатии (в том числе инфекционные), 3+7+4
+ 28, pomeranian                , Энетропатии и гастропатии (в том числе инфекционные), 2+3+2+8+6+2
+ 29, central asian shepherd dog, Энетропатии и гастропатии (в том числе инфекционные), 5+2+35+3
+ 30, siberian husky            , Энетропатии и гастропатии (в том числе инфекционные), 3+3+32
+ 31, pug                       , Энетропатии и гастропатии (в том числе инфекционные), 10+4+6
+ 32, french bulldog            , Энетропатии и гастропатии (в том числе инфекционные), 7+3+2+12
+ 33, pekingese                 , Энетропатии и гастропатии (в том числе инфекционные), 10+2+7
+ 34, dachshund                 , Энетропатии и гастропатии (в том числе инфекционные), 7+1+2+6
+ 35, cocker spaniel            , Энетропатии и гастропатии (в том числе инфекционные), 4+1+1+18
+ 36, american pit bull terrier , Энетропатии и гастропатии (в том числе инфекционные), 1+1+11
+ 37, jack russell terrier      , Энетропатии и гастропатии (в том числе инфекционные), 2+3
+ 38, poodle                    , Энетропатии и гастропатии (в том числе инфекционные), 4+2+2+2
+ 39, russian spaniel           , Энетропатии и гастропатии (в том числе инфекционные), 2+1+7
+ 40, miniature pinscher        , Энетропатии и гастропатии (в том числе инфекционные), 3+1+5
+ 41, maltipoo                  , Энетропатии и гастропатии (в том числе инфекционные), 2+2
+ 42, chinese shar-pei          , Энетропатии и гастропатии (в том числе инфекционные), 2+6
+ 43, staffordshire bull terrier, Энетропатии и гастропатии (в том числе инфекционные), 1+2+2
+ 44, rottweiler                , Энетропатии и гастропатии (в том числе инфекционные), 9
+ 45, labrador retriever        , Энетропатии и гастропатии (в том числе инфекционные), 7+25
+ 46, yorkshire terrier         , Панкреатит                                          , 63
+ 47, german shepherd dog       , Панкреатит                                          , 4
+ 48, russian toy               , Панкреатит                                          , 25
+ 49, chihuahua                 , Панкреатит                                          , 23
+ 50, german spitz              , Панкреатит                                          , 5
+ 51, pomeranian                , Панкреатит                                          , 6
+ 52, central asian shepherd dog, Панкреатит                                          , 2
+ 53, siberian husky            , Панкреатит                                          , 3
+ 54, pug                       , Панкреатит                                          , 5
+ 55, french bulldog            , Панкреатит                                          , 5
+ 56, pekingese                 , Панкреатит                                          , 6
+ 57, dachshund                 , Панкреатит                                          , 12
+ 58, cocker spaniel            , Панкреатит                                          , 3
+ 59, american pit bull terrier , Панкреатит                                          , 0
+ 60, jack russell terrier      , Панкреатит                                          , 4
+ 61, poodle                    , Панкреатит                                          , 5
+ 62, russian spaniel           , Панкреатит                                          , 1
+ 63, miniature pinscher        , Панкреатит                                          , 3
+ 64, maltipoo                  , Панкреатит                                          , 2
+ 65, chinese shar-pei          , Панкреатит                                          , 1
+ 66, staffordshire bull terrier, Панкреатит                                          , 3
+ 67, rottweiler                , Панкреатит                                          , 1
+ 68, labrador retriever        , Панкреатит                                          , 3
+ 69, yorkshire terrier         , Гепатопатии                                         , 4
+ 70, german shepherd dog       , Гепатопатии                                         , 1
+ 71, russian toy               , Гепатопатии                                         , 1
+ 72, chihuahua                 , Гепатопатии                                         , 0
+ 73, german spitz              , Гепатопатии                                         , 0
+ 74, pomeranian                , Гепатопатии                                         , 0
+ 75, central asian shepherd dog, Гепатопатии                                         , 1
+ 76, siberian husky            , Гепатопатии                                         , 0
+ 77, pug                       , Гепатопатии                                         , 0
+ 78, french bulldog            , Гепатопатии                                         , 0
+ 79, pekingese                 , Гепатопатии                                         , 0
+ 80, dachshund                 , Гепатопатии                                         , 0
+ 81, cocker spaniel            , Гепатопатии                                         , 0
+ 82, american pit bull terrier , Гепатопатии                                         , 0
+ 83, jack russell terrier      , Гепатопатии                                         , 0
+ 84, poodle                    , Гепатопатии                                         , 1
+ 85, russian spaniel           , Гепатопатии                                         , 0
+ 86, miniature pinscher        , Гепатопатии                                         , 0
+ 87, maltipoo                  , Гепатопатии                                         , 0
+ 88, chinese shar-pei          , Гепатопатии                                         , 0
+ 89, staffordshire bull terrier, Гепатопатии                                         , 0
+ 90, rottweiler                , Гепатопатии                                         , 0
+ 91, labrador retriever        , Гепатопатии                                         , 0
+ 92, yorkshire terrier         , ХБП                                                 , 13
+ 93, german shepherd dog       , ХБП                                                 , 5
+ 94, russian toy               , ХБП                                                 , 4
+ 95, chihuahua                 , ХБП                                                 , 0
+ 96, german spitz              , ХБП                                                 , 0
+ 97, pomeranian                , ХБП                                                 , 0
+ 98, central asian shepherd dog, ХБП                                                 , 1
+ 99, siberian husky            , ХБП                                                 , 4
+100, pug                       , ХБП                                                 , 0
+101, french bulldog            , ХБП                                                 , 0
+102, pekingese                 , ХБП                                                 , 1
+103, dachshund                 , ХБП                                                 , 0
+104, cocker spaniel            , ХБП                                                 , 0
+105, american pit bull terrier , ХБП                                                 , 0
+106, jack russell terrier      , ХБП                                                 , 0
+107, poodle                    , ХБП                                                 , 0
+108, russian spaniel           , ХБП                                                 , 0
+109, miniature pinscher        , ХБП                                                 , 0
+110, maltipoo                  , ХБП                                                 , 0
+111, chinese shar-pei          , ХБП                                                 , 0
+112, staffordshire bull terrier, ХБП                                                 , 0
+113, rottweiler                , ХБП                                                 , 0
+114, labrador retriever        , ХБП                                                 , 1
+115, yorkshire terrier         , Сахарный диабет                                     , 4
+116, german shepherd dog       , Сахарный диабет                                     , 3
+117, russian toy               , Сахарный диабет                                     , 2
+118, chihuahua                 , Сахарный диабет                                     , 0
+119, german spitz              , Сахарный диабет                                     , 0
+120, pomeranian                , Сахарный диабет                                     , 0
+121, central asian shepherd dog, Сахарный диабет                                     , 0
+122, siberian husky            , Сахарный диабет                                     , 1
+123, pug                       , Сахарный диабет                                     , 0
+124, french bulldog            , Сахарный диабет                                     , 0
+125, pekingese                 , Сахарный диабет                                     , 0
+126, dachshund                 , Сахарный диабет                                     , 2
+127, cocker spaniel            , Сахарный диабет                                     , 0
+128, american pit bull terrier , Сахарный диабет                                     , 0
+129, jack russell terrier      , Сахарный диабет                                     , 0
+130, poodle                    , Сахарный диабет                                     , 2
+131, russian spaniel           , Сахарный диабет                                     , 0
+132, miniature pinscher        , Сахарный диабет                                     , 2
+133, maltipoo                  , Сахарный диабет                                     , 0
+134, chinese shar-pei          , Сахарный диабет                                     , 0
+135, staffordshire bull terrier, Сахарный диабет                                     , 0
+136, rottweiler                , Сахарный диабет                                     , 0
+137, labrador retriever        , Сахарный диабет                                     , 3
+138, yorkshire terrier         , Ожирение                                            , 12
+139, german shepherd dog       , Ожирение                                            , 3
+140, russian toy               , Ожирение                                            , 12
+141, chihuahua                 , Ожирение                                            , 10
+142, german spitz              , Ожирение                                            , 2
+143, pomeranian                , Ожирение                                            , 2
+144, central asian shepherd dog, Ожирение                                            , 0
+145, siberian husky            , Ожирение                                            , 1
+146, pug                       , Ожирение                                            , 14
+147, french bulldog            , Ожирение                                            , 1
+148, pekingese                 , Ожирение                                            , 0
+149, dachshund                 , Ожирение                                            , 7
+150, cocker spaniel            , Ожирение                                            , 4
+151, american pit bull terrier , Ожирение                                            , 0
+152, jack russell terrier      , Ожирение                                            , 0
+153, poodle                    , Ожирение                                            , 0
+154, russian spaniel           , Ожирение                                            , 0
+155, miniature pinscher        , Ожирение                                            , 2
+156, maltipoo                  , Ожирение                                            , 0
+157, chinese shar-pei          , Ожирение                                            , 0
+158, staffordshire bull terrier, Ожирение                                            , 1
+159, rottweiler                , Ожирение                                            , 1
+160, labrador retriever        , Ожирение                                            , 5
